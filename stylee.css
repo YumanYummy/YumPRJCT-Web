@@ -1,0 +1,16 @@
+.pilih{
+         color:aqua;
+         background-color: black;
+         height: 25px;
+         }
+.link1:link{
+            color: orange;
+            }
+.link1:hover{
+            color: lightgreen;
+            font-family: poppins;
+            text-transform: uppercase;
+            text-decoration: none;
+            font-weight: bold;
+            font-size: 20px;
+            }
